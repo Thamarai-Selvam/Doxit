@@ -15,13 +15,13 @@ An online word processor application, designed to work with multiple documents c
 ##### run ```npm install``` inside docs(client | server) dir. to install them
   quill  
   uuid  
-  mongoose
-  yarn/npm
-  react-router-dom
-  socket.io  
-  socket.io-client
-  quill
-  sass
+  mongoose  
+  yarn/npm  
+  react-router-dom  
+  socket.io   
+  socket.io-client  
+  quill  
+  sass  
   
     
   
